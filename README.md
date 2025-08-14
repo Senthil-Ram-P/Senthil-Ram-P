@@ -1,4 +1,10 @@
 ## Hi there 👋
+# Hi, I'm Senthil 👋
+- 🎓 B.Tech CSE student at VIT Chennai
+- 💻 Interested in AI, Python, and Open Source
+- 📌 Current Project: Chatbot using Python
+- 📫 Reach me: [LinkedIn]
+
 
 <!--
 **Senthil-Ram-P/Senthil-Ram-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
