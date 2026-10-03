@@ -2,7 +2,7 @@
 # Hi, I'm Senthil 👋
 - 🎓 B.Tech CSE student at VIT Chennai
 - 💻 Interested in AI, Python, and Open Source
-- 📌 Current Project: Chatbot using Python
+- 📌 Current Project:Video-Driven Digital Twin for Traffic Congestion Analysis and Signal Optimization 
 - 📫 Reach me: [LinkedIn]
 https://www.linkedin.com/in/senthil-ram-padma-raja-b33395371
 
